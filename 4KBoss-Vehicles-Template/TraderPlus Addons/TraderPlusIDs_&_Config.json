@@ -1,0 +1,48 @@
+    {
+      "Id": 5,
+      "Categories": [
+        "4k Vehicles",
+        "4kBoss Parts",
+        "4k Bumpers",
+        "4k Wheels"
+      ],
+
+      ========================
+
+
+          {
+      "Id": 5,
+      "Name": "SurvivorM_Jose",
+      "GivenName": "4kBoss",
+      "Role": "Vehicle Trader",
+      "Position": [
+        6180.043457,
+         385.467651,
+          4130.022949 
+      ],
+      "Orientation": [      //Nadbor Coordinates//
+        42.453293,
+        0,
+        0
+      ],
+      "Clothes": [
+        "FirefighterAxe",
+        "SVD",
+        "M4A1",
+        "M4_RISHndgrd",
+        "Universallight",
+        "M4_OEBttstck",
+        "OMNOGloves_Brown",
+        "GorkaHelmet",
+        "PlateCarrierVest",
+        "GorkaEJacket_Autumn",
+        "GorkaPants_Autumn",
+        "CombatBoots_Black",
+        "Balaclava3Holes_Black",
+        "AliceBag_Black"
+      ]
+    },
+
+
+
+
