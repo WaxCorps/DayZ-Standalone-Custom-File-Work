@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+		<rootclass name="BoatScript" act="car" reportMemoryLOD="no" /> <!-- boats -->
+	</classes>
+	<defaults>
+		<default name="dyn_radius" value="30" />
+		<default name="dyn_smin" value="0" />
+		<default name="dyn_smax" value="0" />
+		<default name="dyn_dmin" value="1" />
+		<default name="dyn_dmax" value="5" />
+		<default name="log_ce_loop" value="false"/>
+		<default name="log_ce_dynamicevent" value="false"/>
+		<default name="log_ce_vehicle" value="true"/>
+		<default name="log_ce_lootspawn" value="false"/>
+		<default name="log_ce_lootcleanup" value="false"/>
+		<default name="log_ce_lootrespawn" value="false"/>
+		<default name="log_ce_statistics" value="false"/>
+		<default name="log_ce_zombie" value="false"/>
+		<default name="log_ce_animal" value="false"/>
+		<default name="log_storageinfo" value="false"/>
+		<default name="log_hivewarning" value="true"/>
+		<default name="log_missionfilewarning" value="true"/>
+		<default name="save_events_startup" value="true"/>
+		<default name="save_types_startup" value="true"/>
+	</defaults>
+    <ce folder="Vehicles_ce">
+    <file name="4KBoss_DodgeRam_types.xml" type="types" />
+    <file name="4KBoss-Audi-types.xml" type="types" />
+    <file name="4KBoss-BMW-types.xml" type="types" />	
+    <file name="4KBoss-Chevrolet-NapalmNova-types.xml" type="types" />
+    <file name="4KBoss-Honda-Civic-types.xml" type="types" />
+    <file name="4KBoss-Dodge-Charger-types.xml" type="types" />
+    <file name="4KBoss-Dodge-Challenger-types.xml" type="types" />
+    <file name="4KBoss-Dodge_ChallengerSRT_types.xml" type="types" />
+    <file name="4KBoss-dodgechargerhellcat_types.xml" type="types" />
+    <file name="4KBoss-GMC-types.xml" type="types" />
+    <file name="4KBoss-GT3-types.xml" type="types" />
+    <file name="4KBoss-BMW-types.xml" type="types" />	
+    <file name="4KBoss_Jeep_GladiatorF9_types.xml" type="types" />
+    <file name="4KBoss_Kamaz_TyphoonK_types.xml" type="types" />
+    <file name="4KBoss_MitsubishiEVO_types.xml" type="types" />
+    <file name="4KBoss-ToyotaRunner-types.xml" type="types" />
+    <file name="4KBoss_Tahoe_types.xml" type="types" />
+    <file name="4KBoss-Supra-types.xml" type="types" />
+    <file name="4KBoss-Ford-Vehicle-types.xml" type="types" />
+    <file name="4KBoss_Nissan_types.xml" type="types" />
+    <file name="4KBoss_MotorHome_types.xml" type="types" />
+    </ce>
+<!-- <ce folder="CustomCE">
+    <file name="types.xml" type="types" />
+    <file name="spawnabletypes.xml" type="spawnabletypes" />
+    <file name="events.xml" type="events" />
+    <file name="globals.xml" type="globals" />
+    <file name="economy.xml" type="economy" />
+    <file name="messages.xml" type="messages" />
+    <file name="territories.xml" type="territories" />
+    <file name="mapgrouppos.xml" type="mapgrouppos" />
+    <file name="mapgroupproto.xml" type="mapgroupproto" />
+</ce> -->
+</economycore>
