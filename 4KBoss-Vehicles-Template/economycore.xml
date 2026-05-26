@@ -36,14 +36,14 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-    <ce folder="Vehicles_ce">
+    <ce folder="4KBoss-types">
+ <!--   <file name="4KBoss-events.xml" type="events" /> -->
     <file name="4KBoss_DodgeRam_types.xml" type="types" />
     <file name="4KBoss-Audi-types.xml" type="types" />
     <file name="4KBoss-BMW-types.xml" type="types" />	
     <file name="4KBoss-Chevrolet-NapalmNova-types.xml" type="types" />
     <file name="4KBoss-Honda-Civic-types.xml" type="types" />
     <file name="4KBoss-Dodge-Charger-types.xml" type="types" />
-    <file name="4KBoss-Dodge-Challenger-types.xml" type="types" />
     <file name="4KBoss-Dodge_ChallengerSRT_types.xml" type="types" />
     <file name="4KBoss-dodgechargerhellcat_types.xml" type="types" />
     <file name="4KBoss-GMC-types.xml" type="types" />

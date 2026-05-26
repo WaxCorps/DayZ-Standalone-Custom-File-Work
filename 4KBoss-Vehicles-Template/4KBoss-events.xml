@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+    <event name="Vehicle_Audi_RS6_ABT">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_MidNightBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Teal"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_RS6_ABT_Yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_Audi_R8">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_CustomPaint"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_CustomPaint2"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_DarkBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Audi_R8_Black"/>
+        </children>
+    </event>
+    <event name="Vehicle_BMW_M3">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_Green"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_MidNightBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_Red"/> 
+              <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M3_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_BMW_M5g90">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_DarkBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_LightBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="BMW_M5g90_Sadan_Orange"/>
+        </children>
+    </event>
+    <event name="Vehicle_Chevrolet_NapalmNova">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_CamoGreen"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_CamoRed"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_NightFrost"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Purple"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Reptile"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Skull"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Topo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Chevrolet_NapalmNova_Yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_DodgeRam_3500">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_AJ45"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_BlueTiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Cyan"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Grey"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_KBTGR"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_M81"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Purple"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_RealTree"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Hood_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_RedTiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_ScamTopia"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500_Yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_DodgeRam_3500Rollbar">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_AJ45"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_BlueTiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Cyan"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Grey"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_KBTGR"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_M81"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Purple"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_RealTree"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Hood_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_RedTiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_ScamTopia"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_3500Rollbar_Yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_DodgeRam_BOSS">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Cyan"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Woodland_Sand"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Woodland_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Woodland_Nightfrost"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_RedTiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_BlueTiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_DUDB"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_ModernWoodland"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Mocha"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_TopoTrip"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_Skulls"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_ChinaLake"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_VectorTrails"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="DodgeRam_BOSS_TopoGraphic"/>
+        </children>
+    </event>
+    <event name="Vehicle_Dodge_ChallengerSRT">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_Challenger_Driver_Darkblue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Gray"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Dodge_ChallengerSRT_Green"/>
+        </children>
+    </event>
+    <event name="Vehicle_dodgechargerhellcat">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_lightblue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_white"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="dodgechargerhellcat_gray"/>
+        </children>
+    </event>
+    <event name="Vehicle_Honda_Civic">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_RedCustom"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_Honda_Civic">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_RedCustom"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Civic_Yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_GMC_BOSS">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GMC_BOSS_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GMC_BOSS_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GMC_BOSS_Police"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GMC_BOSS_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GMC_BOSS_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_Porsche_GT3">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_DarkBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_LightBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Yellow"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="GT3_Pink"/>
+        </children>
+    </event>
+    <event name="Vehicle_Jeep_GladiatorF9_BOSS">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Brown"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_abominable"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_blue2"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_bluetiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_dragonmoss"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_flecktarn"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_hunter"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_nightseas"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_pinkpython"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_redtiger"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_skulls"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_topotrip"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_camo_vanished"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Cyan"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Jeep_GladiatorF9_BOSS_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_Kamaz_TyphoonK">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_CamoGreen"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_CamoGreen2"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_CamoGreen3"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_RedCamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_Rusty"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Kamaz_TyphoonK_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_MitsubishiEVO">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_bee"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_darkblue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_FastAnFurious"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_FastAnFurious2"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_lightblue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_white"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MitsubishiEVO_yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_ToyotaRunner">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_BOSS"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camoblack"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camoblue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camogreen"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camopink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camopurple"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camored"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_camowhite"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_white"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ToyotaRunner_yellow"/>
+        </children>
+    </event>
+    <event name="Vehicle_ChevroletTahoe">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Brown"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_DarkBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Gray"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_LightGreen"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Yellow"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Sheriff"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="ChevroletTahoe_SheriffRust"/>
+        </children>
+    </event>
+    <event name="Vehicle_Tahoe">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_Brown"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_DarkBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_LightBlue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Tahoe_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_Supra">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_FastF"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_Lighting"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_Sponge"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Supra_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_Ford_Bronco">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Bronco_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Bronco_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Bronco_Hunter"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Bronco_Rust"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Bronco_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_Lifted_Ford_Bronco">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_BroncoLifted_ChinaLake"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_BroncoLifted_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_BroncoLifted_DarkBlue"/>
+        </children>
+    </event>
+    <event name="Vehicle_Shelby_GT500">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_DarkBlue"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Mustang_Shelby_GT500_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_Ford_Raptor_MonsterTruck">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Raptor_MonsterTruck_Baja"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Raptor_MonsterTruck_Halo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Raptor_MonsterTruck_Raptor"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Raptor_MonsterTruck_Roush"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Raptor_MonsterTruck_USA"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Ford_Raptor_MonsterTruck_WideOpen"/>
+        </children>
+    </event>
+    <event name="Vehicle_Ford_Shelby_SuperSnake">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Shelby_SuperSnake_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Shelby_SuperSnake_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Shelby_SuperSnake_White"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="Shelby_SuperSnake_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Shelby_SuperSnake_Orange"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Shelby_SuperSnake_DarkBlue"/>
+        </children>
+    </event>
+    <event name="Vehicle_Nissan_Skyline">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nissan_Skyline_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nissan_Skyline_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nissan_Skyline_Orange"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="Nissan_Skyline_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nissan_Skyline_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="Nissan_Skyline_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_NissanGTR">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTR_Blue"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTR_Green"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTR_Orange"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTR_Pink"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTR_Red"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTR_White"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRCustom_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRCustom_Blood"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRCustom_LB"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRCustom_Pink"/>
+        </children>
+    </event>
+    <event name="Vehicle_NissanGTRNismo">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRNismo_Black"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRNismo_DarkPurple"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRNismo_Red"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="NissanGTRNismo_White"/>
+        </children>
+    </event>
+    <event name="Vehicle_MotorHome">
+        <nominal>0</nominal>
+        <min>0</min>
+        <max>0</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MotorHome_Apo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MotorHome_GreenCamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="MotorHome_Rust"/>
+             <child lootmax="0" lootmin="0" max="5" min="3" type="MotorHome_White"/>
+        </children>
+    </event>
+</events>
