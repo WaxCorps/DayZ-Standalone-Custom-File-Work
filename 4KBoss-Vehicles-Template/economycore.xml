@@ -38,6 +38,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 	</defaults>
     <ce folder="4KBoss-types">
  <!--   <file name="4KBoss-events.xml" type="events" /> -->
+<!-- <file name="4KBoss_spawnabletypes.xml" type="spawnabletypes" /> -->
     <file name="4KBoss_DodgeRam_types.xml" type="types" />
     <file name="4KBoss-Audi-types.xml" type="types" />
     <file name="4KBoss-BMW-types.xml" type="types" />	
@@ -58,6 +59,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
     <file name="4KBoss-Ford-Vehicle-types.xml" type="types" />
     <file name="4KBoss_Nissan_types.xml" type="types" />
     <file name="4KBoss_MotorHome_types.xml" type="types" />
+	<file name="4KBoss-police.xml" type="types" />
     </ce>
 <!-- <ce folder="CustomCE">
     <file name="types.xml" type="types" />
