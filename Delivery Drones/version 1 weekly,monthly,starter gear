@@ -1,0 +1,78 @@
+{
+    "kits": [
+        {
+            "name": "Weekly Rewards",
+            "kit_description": " Weekly Rewards for all players! Enjoy the free items and have fun!",
+            "items": [
+                "WatchtowerKit",
+                "DryBag_Green",
+                "Binoculars"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 604800.0
+        },
+        {
+            "name": "Medical Supplies",
+            "kit_description": "Hourly Reward!",
+            "items": [
+                "FirstAidKit",
+                "BandageDressing",
+                "Morphine",
+                "TetracyclineAntibiotics"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 7200.0
+        },
+        {
+            "name": "Basic Building Supplies",
+            "kit_description": "Monthly Reward!",
+            "items": [
+                "WoodenPlank",
+                "WoodenPlank",                
+                "WoodenPlank",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "NailBox",
+                "WoodenLog",
+                "WoodenLog",
+                "WoodenLog",
+                "WoodenLog",
+                "MetalWire",
+                "MetalWire",
+                "MetalWire",
+                "MetalWire",
+                "MetalWire",
+                "Whetstone",
+                "Whetstone",
+                "Whetstone",
+                "Whetstone",
+                "Hammer",
+                "Hatchet"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 2628000.0
+        },
+        {
+            "name": "Free Gun Kit",
+            "kit_description": "Starter Reward! 1 per month. Free gun kit to get you Started:) enjoy!!",
+            "items": [
+                "PP19",
+                "Mag_PP19_64Rnd",
+                "Mag_PP19_64Rnd",
+                        "PistolSuppressor",
+                        "KobraOptic",
+                        "Battery9V",
+                        "AmmoBox_380_35rnd",
+                        "AmmoBox_380_35rnd"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 2628000.0
+        }
+    ]
+}
