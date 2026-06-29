@@ -1,0 +1,41 @@
+{
+    "kits": [
+        {
+            "name": "Daily Supplies",
+            "kit_description": "Free Daily Crate Contains BandageDressing,WaterBottle,Matchbox",
+            "items": [
+                "BandageDressing",
+                "WaterBottle",
+                "Matchbox"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 240.0
+        },
+        {
+            "name": "Medical Supplies",
+            "kit_description": "This kit contains: FirstAidKit, BandageDressing, Morphine, SalineBagIV",
+            "items": [
+                "FirstAidKit",
+                "BandageDressing",
+                "Morphine",
+                "SalineBagIV"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 240.0
+        },
+        {
+            "name": "Basic Building Supplies",
+            "kit_description": "This kit contains: WoodenPlank, BoxNails, Hammer",
+            "items": [
+                "WoodenPlank",
+                "NailBox",
+                "Hammer"
+            ],
+            "price": 0,
+            "isFree": 1,
+            "cooldown": 240.0
+        }
+    ]
+}
